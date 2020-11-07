@@ -7,7 +7,8 @@ reference to: https://github.com/sss22213/RISC-V-E-SDK-automatically-build-tools
 
 ## build
 ```
-  mv hifive1-revb-led-blink <freedom-e-sdk folder>/software/blink
+  mv hifive1-revb-led-blink blink
+  mv blink <freedom-e-sdk folder>/software
 ```
 
 ## upload
